@@ -1,5 +1,5 @@
-var socialFloat = document.querySelector('#social-float');
-var footer = document.querySelector('#footer');
+var socialFloat = document.getElementById('#social-float');
+var footer = document.getElementById('#footer');
 
 function checkOffset() {
 	'use strict';
